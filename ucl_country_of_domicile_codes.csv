@@ -1,0 +1,574 @@
+COD_CODE,COD_NAME
+110,East Riding
+111,North East Lincolnshire
+112,North Lincolnshire
+113,York
+114,Bournemouth
+115,Brighton and Hove
+116,Darlington
+117,City of Derby
+118,Leicester
+119,Luton
+120,Milton Keynes
+121,Poole
+122,Portsmouth
+123,Rutland
+124,Southampton
+125,Stoke-on-Trent
+126,Swindon
+127,Bracknell Forest
+128,Windsor & Maidenhead
+129,West Berkshire
+130,Reading
+131,Slough
+132,Wokingham
+133,Peterborough
+134,Halton
+135,Warrington
+136,Plymouth
+137,Torbay
+138,Southend
+139,Thurrock
+140,Herefordshire
+141,Worcestershire
+142,Medway
+143,Blackburn with Darwen
+144,Blackpool
+145,Nottingham
+146,Telford and The Wrekin
+161,Aberdeen (City)
+162,Aberdeenshire
+163,Angus
+164,Argyll and Bute
+165,Scottish Borders
+166,Clackmannanshire
+167,West Dunbartonshire
+168,Dumfries and Galloway
+169,Dundee
+170,East Ayrshire
+171,East Dunbartonshire
+172,East Lothian
+173,East Renfrewshire
+174,Edinburgh
+175,Falkirk
+176,Fife
+177,Glasgow
+178,Highland
+179,Inverclyde
+180,Midlothian
+181,Moray
+182,North Ayrshire
+183,North Lanarkshire
+184,Orkney Islands
+185,Perthshire and Kinross
+186,Renfrewshire
+187,Shetland Islands
+188,South Ayrshire
+189,South Lanarkshire
+190,Stirling
+191,West Lothian
+192,Western Isles
+200,Orkney
+201,Shetland
+202,Western Isles
+210,Highland Region - General
+211,Caithness
+212,Sutherland
+213,Ross & Cromarty
+214,Skye & Lochalsh
+215,Lochaber
+216,Inverness
+217,Badenoch & Strathspey
+218,Nairn
+633,Congo (Democratic Republic)
+634,Congo
+635,Costa Rica
+636,Cuba
+637,Netherlands Antilles
+638,Cyprus (Not otherwise specified)
+639,Czechoslovakia
+640,Benin
+641,Denmark
+642,Dominica
+643,Dominican Republic
+645,Ecuador
+646,El Salvador
+647,Tuvalu
+648,Ethiopia
+649,Falkland Islands (Malvinas)
+650,Fiji
+651,Finland
+652,Taiwan
+653,France
+654,Gabon
+655,Gambia
+656,Germany
+657,East Germany
+658,Ghana
+659,Gibraltar
+660,Kiribati
+661,Greece
+662,Grenada
+663,Guatemala
+664,Guinea
+666,Haiti
+667,Honduras
+668,Belize
+669,Hong Kong
+670,Hungary
+671,Iceland
+672,India
+673,Indonesia
+675,Iraq
+676,Ireland
+677,Israel
+678,Italy
+679,Ivory Coast (Cote d'Ivoire)
+680,Jamaica
+681,Japan
+682,Jordan
+683,Kenya
+685,"Korea, Democratic People's Republic of"
+686,Kuwait
+687,Lao PDR
+688,Lebanon
+689,Leeward Islands
+690,Lesotho
+691,Liberia
+692,Libya
+693,Luxembourg
+694,Macao
+695,Madagascar
+696,Malawi
+697,Malaya
+698,Malaysia
+699,Mali
+701,Mauritania
+702,Mauritius
+703,Mexico
+704,Mongolia
+705,Montserrat
+706,Morocco
+707,Mozambique
+708,Oman
+709,Nepal
+710,Netherlands
+711,New Caledonia
+712,New Guinea (Not In Use)
+713,Vanuatu
+714,New Zealand
+716,Niger
+717,Nigeria
+718,Norway
+721,Pakistan
+722,Panama
+723,Papua New Guinea
+724,Paraguay
+725,Peru
+726,Philippines
+727,Poland
+728,Portugal
+733,Romania
+734,Rwanda
+735,"St Helena, Ascension & Tristan da Cunha"
+736,St. Kitts-Nevis
+737,St Lucia
+738,Saint Vincent and the Grenadines
+739,Sabah
+742,Sarawak
+743,Saudi Arabia
+744,Seychelles
+746,Singapore
+747,Solomon Islands
+748,Somalia
+749,Djibouti
+750,South Africa
+751,Spain
+752,Sudan
+753,Suriname
+755,Sweden
+756,Switzerland
+757,Syrian Arab Republic (Syria)
+760,Thailand
+761,Tibet
+762,Togo
+763,Trinidad and Tobago
+764,United Arab Emirates
+765,Tunisia
+767,Uganda
+768,Egypt
+769,Burkina Faso
+770,Uruguay
+771,United States of America
+773,Venezuela (Bolivarian Republic of)
+774,Vietnam (Viet Nam)
+776,British Virgin Islands
+777,West Indies
+778,Windward Islands
+779,Yemen Arab Republic (North Yemen)
+780,Serbia
+781,Zambia
+782,Not Known
+783,Stateless
+784,Tonga
+785,Senegal
+786,East Timor (Timor-Leste)
+788,Cape Verde
+789,Cayman Islands
+790,Equatorial Guinea
+791,French Guiana
+792,French West Indies (Not In Use)
+793,Maldives
+794,Portuguese West Africa
+795,Reunion
+796,Guam
+797,Sikkim
+798,Namibia
+799,Turks and Caicos Islands
+800,Virgin Islands (US)
+801,British Antarctic Territory
+802,Guinea Bissau
+803,Sao Tome and Principe
+804,Comoros
+805,Nauru
+807,Macedonia (Former Yugoslav Republic of)
+821,Mayotte
+822,French Polynesia
+823,Pitcairn Islands
+824,Anguilla
+825,Monaco
+826,San Marino
+827,Liechtenstein
+828,Greenland
+829,British Indian Ocean Territory
+830,South Georgia and South Sandwich Islands
+831,Estonia
+832,Latvia
+833,Lithuania
+834,Croatia
+835,Slovenia
+836,Armenia
+837,Azerbaijan
+838,Belarus
+839,Kazakhstan
+840,Kyrgyzstan
+841,Moldova
+842,Russian Federation
+843,Tajikistan
+844,Turkmenistan
+845,Ukraine
+846,Uzbekistan
+847,Georgia
+848,Bosnia and Herzegovina
+849,Czech Republic
+850,Slovakia
+851,Eritrea
+853,Aland Islands
+860,Eritrea
+861,Marshall Islands
+862,"Micronesia, Federated States of"
+863,East Timor
+901,Avon
+902,Bedfordshire
+903,Berkshire
+904,Buckinghamshire
+905,Cambridgeshire
+906,Cheshire
+907,Cleveland
+908,Cornwall
+909,Cumbria
+910,Derbyshire
+911,Devon
+912,Dorset
+913,Durham
+914,East Sussex
+915,Essex
+916,Gloucestershire
+917,Hampshire
+918,Hereford & Worcester
+919,Hertfordshire
+920,Humberside
+921,Isle of Wight
+922,Kent
+923,Lancashire
+924,Leicestershire
+925,Lincolnshire
+926,Norfolk
+927,North Yorkshire
+928,Northamptonshire
+929,Northumberland
+930,Nottinghamshire
+931,Oxfordshire
+932,Shropshire
+933,Somerset
+934,Staffordshire
+935,Suffolk
+936,Surrey
+937,Warwickshire
+938,West Sussex
+939,Wiltshire
+949,England
+999,Not Known
+852,North Macedonia
+3826,Channel Islands
+4826,Isle of Man
+5826,England
+6826,Wales
+7826,Scotland
+870,"Palestinian, State of"
+8826,Northern Ireland
+997,British Overseas Territory
+998,Under Investigation (OS)
+230,Tayside Region - General
+262,Ettrick & Lauderdale
+291,Wigtown
+604,Algeria
+613,Barbados
+624,Cambodia
+731,Qatar
+741,Samoa
+754,Eswatini
+766,Turkey
+775,Vietnam (N)
+787,Bangladesh
+007,Tyrone
+63A,Cyprus
+63B,Cyprus (Turkish Republic of Northern Cyprus)
+854,American Samoa
+864,Montenegro
+855,Aruba
+856,Canary Islands
+857,Christmas Island
+858,Cocos (Keeling) Islands
+859,Cook Islands
+865,Faroe Islands
+867,Guadeloupe
+869,Martinique
+871,Niue
+872,Norfolk Island
+873,Northern Mariana Islands
+874,Palau
+875,St Pierre And Miquelon
+876,Svalbard And Jan Mayen
+877,Tokelau
+878,Holy See (Vatican City State)
+879,Wallis & Futuna
+880,Western Sahara
+881,Kosovo
+882,Cyprus (European Union)
+883,Cyprus (Non-European Union)
+301,Barking and Dagenham
+772,USSR (Not In Use)
+665,Guyana
+674,"Iran, Islamic Republic of"
+684,"Korea, Republic of"
+700,Malta
+715,Nicaragua
+730,Puerto Rico
+745,Sierra Leone
+759,"Tanzania, United Republic of"
+382,Kirklees
+393,South Tyneside
+455,Islington
+460,Tower Hamlets
+503,Conwy
+504,Denbighshire
+514,Vale of Glamorgan
+522,Cardiff
+420,Isles of Scilly Council
+732,Zimbabwe
+001,Belfast
+003,Antrim
+004,Down
+005,Armagh
+006,Londonderry
+008,Fermanagh
+099,Northern Ireland - General
+101,Bath and North East Somerset
+102,Bristol
+103,North Somerset
+104,South Gloucestershire
+105,Hartlepool
+106,Middlesborough
+107,Redcar and Cleveland
+108,Stockton on Tees
+109,Hull (Kingston Upon Hull)
+888,St Martin (French Part)
+220,Grampian Region - General
+221,Moray
+222,Banff & Buchan
+223,Gordon
+224,Aberdeen City
+225,Kincardine & Deeside
+231,Angus
+232,Dundee City
+233,Perth & Kinross
+240,Fife Region - General
+241,Kirkcaldy
+242,North East Fife
+243,Dunfermline
+250,Lothian Region - General
+251,West Lothian
+252,Edinburgh City
+253,Midlothian
+254,East Lothian
+260,Borders Region - General
+261,Tweeddale
+263,Roxburgh
+264,Berwickshire
+270,Central Region - General
+271,Clackmannan
+272,Stirling
+273,Falkirk
+280,Strathclyde - General
+281,Argyll & Bute
+282,Ayr
+283,Dumbarton
+284,Glasgow
+285,Lanark
+286,Renfrew
+290,Dumfries & Galloway - General
+292,Stewartsby
+293,Nithsdale
+000,United Kingdom
+302,Barnet
+303,Bexley
+304,Brent
+305,Bromley
+306,Croydon
+307,Ealing
+308,Enfield
+309,Haringey
+310,Harrow
+311,Havering
+312,Hillingdon
+313,Hounslow
+314,Kingston upon Thames - Royal Borough of
+315,Merton
+316,Newham
+317,Redbridge
+318,Richmond-upon-Thames
+319,Sutton
+320,Waltham Forest
+329,Greater London Boroughs - General
+330,Birmingham
+331,Coventry
+332,Dudley
+333,Sandwell
+334,Solihull
+335,Walsall
+336,Wolverhampton
+339,West Midlands - General
+340,Knowsley
+341,Liverpool
+342,St Helens
+343,Sefton
+344,Wirral
+349,Merseyside: Not Known
+350,Bolton
+351,Bury
+352,Manchester
+353,Oldham
+354,Rochdale
+355,Salford
+356,Stockport
+357,Tameside
+358,Trafford
+359,Wigan
+369,Greater Manchester - General
+370,Barnsley
+371,Doncaster
+372,Rotherham
+373,Sheffield
+379,South Yorkshire - General
+380,Bradford
+381,Calderdale
+383,Leeds
+384,Wakefield
+389,West Yorkshire - General
+390,Gateshead
+391,Newcastle-Upon-Tyne
+392,North Tyneside
+394,Sunderland
+399,Tyne & Wear - General
+427,London Residuary Body
+450,Camden
+451,City of London
+452,Greenwich
+453,Hackney
+454,Hammersmith & Fulham
+456,Kensington & Chelsea
+457,Lambeth
+458,Lewisham
+459,Southwark
+461,Wandsworth
+462,Westminster
+501,Isle of Anglesey
+502,Gwynedd
+505,Flintshire
+506,Wrexham
+507,Powys
+508,Ceredigion
+509,Pembrokeshire
+510,Carmarthenshire
+511,Swansea
+512,Neath Port Talbot
+513,Bridgend
+515,Rhondda Cynon Taff
+516,Merthyr Tydfil
+517,Caerphilly
+518,Blaenau Gwent
+519,Torfaen
+520,Monmouthshire
+521,Newport
+570,Clwyd
+571,Dyfed
+572,Gwent
+573,Gwynedd
+574,Mid Glamorgan
+575,Powys
+576,South Glamorgan
+577,West Glamorgan
+579,Wales - County not Known
+592,Alderney
+593,Guernsey
+594,Jersey
+595,Isle of Man
+599,Channel Islands - General
+601,Yemen
+602,Afghanistan
+603,Albania
+605,Andorra
+606,Angola
+607,Antigua and Barbuda
+608,Argentina
+609,Australia
+610,Austria
+611,Bahamas
+612,Bahrain
+614,Belgium
+615,Bermuda
+616,Bhutan
+617,Bolivia
+618,Botswana
+619,Brazil
+620,Brunei Darussalam
+621,Bulgaria
+622,Burma (Myanmar)
+623,Burundi
+625,Cameroon
+626,Canada
+627,Central African Republic
+628,Sri Lanka
+629,Chad
+630,Chile
+631,China
+632,Colombia
+294,Annandale & Eskdale
+299,Scottish Region - General
+884,South Sudan
+885,Curacao
+886,Sint Maarten (Dutch Part)
+887,"Bonaire, Sint Eustatius and Saba"
+889,Saint Barthélemy
+0,Unknown - not to be used
